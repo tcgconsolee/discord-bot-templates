@@ -20,3 +20,5 @@ enter the channel ids of these channels respectively in the quotes
 
 
 # The Bot Is Ready!
+
+use /adddare, /addtruth and /addwyr to add custom dares, truth questions, and would you rather questions and enjoy playing with friends!
