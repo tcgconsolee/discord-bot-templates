@@ -5,6 +5,8 @@ const app = express();
 let dareId = ""
 let truthId = ""
 let wyrId = ""
+
+// Enter Guild ID here
 let guildId = ""
 
 // Enter Bot Token Here
