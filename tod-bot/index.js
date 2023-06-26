@@ -5,6 +5,7 @@ const app = express();
 let dareId = ""
 let truthId = ""
 let wyrId = ""
+let guildId = ""
 
 // Enter Bot Token Here
 let BOT_TOKEN = ""
@@ -37,7 +38,7 @@ function getPosition(string, subString, index) {
 
 
 client.on('ready', () => {
-  const guild = client.guilds.cache.get('1005501911119708300')
+  const guild = client.guilds.cache.get(guildId)
     let commands
 
 if(guild) {
