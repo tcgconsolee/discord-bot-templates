@@ -1,6 +1,6 @@
 # Truth Or Dare Bot - How To Use 
 
-During the starting lines, there are some comments which tell you to enter channel IDs and your bot token when using.
+During the starting lines, there are some comments which tell you to enter channel IDs, guild ID and your bot token when using.
 
 ## The bot token can be accessed by
 
@@ -18,6 +18,9 @@ and then click copy and enter it in the quotes of the bot token
 i would recommend using a private server only including your bot and you with 3 channels
 enter the channel ids of these channels respectively in the quotes
 
+## The guild ID
+
+enter the id of the guild in which you want to use the bot
 
 # The Bot Is Ready!
 
